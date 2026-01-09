@@ -2,7 +2,7 @@
 
 A premium, minimalist developer portfolio designed with a focus on visual excellence, smooth interactions, and a clean user experience. Built using **React + Vite**, this portfolio showcases expertise in **Machine Learning**, **Full Stack Development**, and **UI/UX Design**.
 
-<img width="1889" height="1018" alt="Image" src="https://github.com/user-attachments/assets/5945c905-b08d-460a-95db-241ef8b9f75c" />
+<img width="1889" height="1018" alt="Image" src="https://github.com/user-attachments/assets/5945c905-b08d-460a-95db-241ef8b9f75c" /> 
 
 ## ✨ Key Features
 
@@ -58,7 +58,7 @@ A premium, minimalist developer portfolio designed with a focus on visual excell
 - `src/App.jsx`: Core application logic and structure.
 - `src/App.css`: Custom design system and layout styling.
 
-## **Demo - https://github.com/user-attachments/assets/57bd779f-db0c-4d61-bb3f-aa427fdb1cac
+## **Demo - https://github.com/user-attachments/assets/57bd779f-db0c-4d61-bb3f-aa427fdb1cac   https://github.com/user-attachments/assets/e21b7d34-d504-49ac-a7ab-ac347d698b9b
 
 ## ✉️ Contact
 
